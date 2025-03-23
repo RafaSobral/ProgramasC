@@ -8,6 +8,7 @@ Nesse repositório também é possivel encontrar 2 desafios de código do CS50X 
 
 ## 📂 Estrutura do Repositório
 Cada programa está organizado dentro de sua respectiva pasta. Alguns dos temas abordados incluem:
+- 📌 Ponteiros
 - 📌 Algoritmos básicos
 - 📌 Estruturas de controle
 - 📌 Manipulação de strings
