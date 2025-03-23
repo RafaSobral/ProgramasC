@@ -1,4 +1,5 @@
 # ProgramasC
+Antes de tudo, vale ressaltar que já desenvolvi centenas de outros programas em C, porém, na época, não utilizava o GitHub e acabei perdendo a maioria.
 ## 📌 Sobre o Repositório
 
 Repositório contendo diversos programas desenvolvidos em linguagem C abordando diferentes conceitos da linguagem para aprendizado e prática.
